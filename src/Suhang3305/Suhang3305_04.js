@@ -1,4 +1,3 @@
-
 import { useState } from "react";
 const Suhang3305_04 = () => {
 const [num1, setnum1] = useState("");
